@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Network Speed</string>
+    <string name="open_close">打开或者关闭悬浮窗</string>
+    <string name="exit">退出程序</string>
+</resources>
